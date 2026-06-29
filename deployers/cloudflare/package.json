@@ -41,7 +41,7 @@
   "author": "",
   "license": "Elastic-2.0",
   "dependencies": {
-    "@babel/core": "^7.26.10",
+    "@babel/core": "^7.29.6",
     "@mastra/core": "workspace:^",
     "@mastra/deployer": "workspace:^",
     "@rollup/plugin-virtual": "^3.0.2",
