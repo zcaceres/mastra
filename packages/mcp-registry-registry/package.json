@@ -37,7 +37,7 @@
     "zod-to-json-schema": "^3.22.4"
   },
   "devDependencies": {
-    "@hono/node-server": "^1.13.8",
+    "@hono/node-server": "^1.19.15",
     "@internal/lint": "workspace:*",
     "@mastra/mcp": "workspace:^",
     "@types/node": "^20.11.24",
